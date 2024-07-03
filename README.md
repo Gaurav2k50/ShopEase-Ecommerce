@@ -4,7 +4,7 @@ Here's a description for your ShopEase Ecommerce project on GitHub:
 
 ShopEase Ecommerce
 
-ShopEase Ecommerce is a comprehensive e-commerce platform developed using React.js, CSS3, and Firebase, with the integration of Razorpay for seamless payment processing. This project demonstrates a robust and scalable solution for modern online shopping needs.
+ShopEase Ecommerce is a comprehensive e-commerce platform developed using React.js, CSS3, Tailwind CSS and Firebase, with the integration of Razorpay for seamless payment processing. This project demonstrates a robust and scalable solution for modern online shopping needs.
 
 Features:
 
